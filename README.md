@@ -21,6 +21,16 @@ Teams Medic is:
 
 Everything runs on your computer. Nothing is uploaded anywhere.
 
+## Download
+
+Most people should download the ready-to-run Windows app:
+
+[Download Teams Medic v0.1.0 for Windows x64](https://github.com/Henr1ko/teams-medic/releases/download/v0.1.0/TeamsMedic-v0.1.0-win-x64.exe.exe)
+
+You can also browse all releases here:
+
+[Teams Medic releases](https://github.com/Henr1ko/teams-medic/releases)
+
 ## What Can It Help With?
 
 Teams Medic includes guided fixes for:
