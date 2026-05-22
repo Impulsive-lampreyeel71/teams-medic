@@ -78,7 +78,7 @@ Teams Medic does not:
 
 If a repair needs something risky, Teams Medic should explain that instead of silently doing something surprising.
 
-## Safety Stuff, But In Human Words
+## Safety Stuff.
 
 Teams cache clearing is limited to these known Teams folders:
 
